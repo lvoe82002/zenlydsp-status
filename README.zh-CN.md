@@ -17,7 +17,7 @@
 
 > Demo password: `123456`
 
-- [IMSYY-站点监测](https://status.imsyy.top/)
+- [IMSYY-站点监测](https://zenlydsp-status.pages.dev)
 
 ## 🎉 特色
 
