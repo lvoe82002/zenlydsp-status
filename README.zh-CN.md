@@ -15,8 +15,6 @@
 
 ## 👀 Demo
 
-> Demo password: `123456`
-
 - [ZENLYDSP-站点监测](https://zenlydsp-status.pages.dev)
 
 ## 🎉 特色
