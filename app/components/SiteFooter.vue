@@ -50,7 +50,7 @@ const { public: configPublic } = useRuntimeConfig();
 const { siteIcp, version } = configPublic;
 
 const linkData = {
-  github: "https://github.com/lvoe82002",
+  github: "https://github.com/lvoe82002/zenlydsp-status",
   home: "https://www.zenlydsp.top",
   email: "mailto:2078583352@qq.com",
 };
