@@ -15,7 +15,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## 👀 Demo
 
-- [ZENLYDSP-status Monitoring](https://zenlydsp-status.pages.dev)
+- [ZENLYDSP-status Monitoring](https://status.zenlydsp.top/)
 
 ## 🎉 Features
 
