@@ -15,7 +15,7 @@
 
 ## 👀 Demo
 
-- [ZENLYDSP-站点监测](https://zenlydsp-status.pages.dev)
+- [ZENLYDSP-站点监测]([https://status.zenlydsp.top/)
 
 ## 🎉 特色
 
