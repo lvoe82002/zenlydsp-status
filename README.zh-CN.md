@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/forks/imsyy/site-status?style=full&color=orange" alt="GitHub followers"/>
 <br />
 <br />
-<img src="https://s1.ax1x.com/2023/07/20/pCHnLLt.png" alt="demo"/>
+<img src="public/images/demo.png" alt="demo" width="100%"/>
 </div>
 
 ## 👀 Demo
